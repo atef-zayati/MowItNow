@@ -4,8 +4,8 @@ import org.apache.log4j.Logger;
 
 /**
  * The <code>Mower</code> class represents a lawn mower. A <code>Mower</code>
- * object has a position (@see Mower#position), a direction (@see
- * Mower#direction) and can move inside a grid (@see Mower#gridBoundary).
+ * object has a position {@link Mower#position }, a direction
+ * {@link Mower#direction } and can move inside a grid {@link Mower#gridBoundary }
  * 
  * @author Atef ZAYATI
  */
